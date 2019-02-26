@@ -35,7 +35,7 @@ http://pear.php.net/dtd/package-2.0.xsd">
    <file name="README" role="doc" />
    <file name="pinba.proto" role="src" />
    <file name="pinba.pb-c.h" role="src" />
-   <file name="pinba-pb-c.c" role="src" />
+   <file name="pinba.pb-c.c" role="src" />
    <file name="pinba.c" role="src" />
    <file name="protobuf-c.h" role="src" />
    <file name="protobuf-c.c" role="src" />
